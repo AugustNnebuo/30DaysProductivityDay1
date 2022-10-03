@@ -1,4 +1,4 @@
-# 30DaysProductivityDay1
+# 30DaysProductivityChallenge3/30
 Python projects for beginners
 
 ## Links to the Jupyter notebook 
