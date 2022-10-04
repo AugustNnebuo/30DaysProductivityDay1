@@ -1,5 +1,5 @@
-# 30DaysProductivityChallenge: Python Beginners Challenge
-Python projects for beginners
+# 30DaysProductivityChallenge: 
+##Python projects for beginners
 
 ## Links to the Jupyter notebook 
 [Guessing game-Computer](http://localhost:8888/notebooks/GUESSING%20GAME.ipynb)
